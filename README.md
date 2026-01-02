@@ -1,7 +1,9 @@
-## 🧪 Execution Results
+##  Execution Results
 
-### ▶️ Application Run
+###  Maven Clean
+![Maven Clean Result](tp3_1.png)
+
+###  Application Run
 ![Application Run Result](tp3.png)
 
-### 🧹 Maven Clean
-![Maven Clean Result](tp3_1.png)
+
